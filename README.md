@@ -2,7 +2,7 @@
 
 Daily automated tracking of NanoClaw ecosystem and AI agent developments.
 
-[![Daily Digest](https://github.com/YOUR_USERNAME/nanoclaw-radar/actions/workflows/daily-digest.yml/badge.svg)](https://github.com/YOUR_USERNAME/nanoclaw-radar/actions/workflows/daily-digest.yml)
+[![Daily Digest](https://github.com/happydog-intj/nanoclaw-radar/actions/workflows/daily-digest.yml/badge.svg)](https://github.com/happydog-intj/nanoclaw-radar/actions/workflows/daily-digest.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🎯 What is NanoClaw Radar?
@@ -73,7 +73,7 @@ nanoclaw-radar/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/nanoclaw-radar.git
+git clone https://github.com/happydog-intj/nanoclaw-radar.git
 cd nanoclaw-radar
 
 # Install dependencies
@@ -256,7 +256,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## 📮 Contact
 
-- GitHub Issues: [Report bugs or suggest features](https://github.com/YOUR_USERNAME/nanoclaw-radar/issues)
+- GitHub Issues: [Report bugs or suggest features](https://github.com/happydog-intj/nanoclaw-radar/issues)
 - Telegram: [@NanoClawRadar](https://t.me/NanoClawRadar)
 - Email: radar@nanoclaw.dev
 

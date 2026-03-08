@@ -33,7 +33,7 @@ export function formatTelegramMessage(highlights: Array<{ title: string; descrip
     lines.push('');
   }
 
-  lines.push('[Read full digest →](https://YOUR_USERNAME.github.io/nanoclaw-radar)');
+  lines.push('[Read full digest →](https://happydog-intj.github.io/nanoclaw-radar)');
 
   return lines.join('\n');
 }

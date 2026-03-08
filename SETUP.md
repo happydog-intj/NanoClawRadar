@@ -320,7 +320,7 @@ WantedBy=timers.target
 
 ## Support
 
-- GitHub Issues: [Report bugs or request features](https://github.com/YOUR_USERNAME/nanoclaw-radar/issues)
+- GitHub Issues: [Report bugs or request features](https://github.com/happydog-intj/nanoclaw-radar/issues)
 - NanoClaw Community: [Join discussions](https://github.com/qwibitai/nanoclaw/discussions)
 
 ## License

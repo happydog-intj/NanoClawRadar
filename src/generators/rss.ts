@@ -7,8 +7,8 @@ export function generateRSSFeed(): void {
   const feed = new RSS({
     title: 'NanoClaw Radar',
     description: 'Daily tracking of NanoClaw ecosystem and AI agent developments',
-    feed_url: 'https://YOUR_USERNAME.github.io/nanoclaw-radar/feed.xml',
-    site_url: 'https://YOUR_USERNAME.github.io/nanoclaw-radar',
+    feed_url: 'https://happydog-intj.github.io/nanoclaw-radar/feed.xml',
+    site_url: 'https://happydog-intj.github.io/nanoclaw-radar',
     language: 'en',
     pubDate: new Date(),
   });
@@ -20,7 +20,7 @@ export function generateRSSFeed(): void {
     feed.item({
       title: `NanoClaw Radar - ${digest.date}`,
       description: digest.content.substring(0, 500) + '...',
-      url: `https://YOUR_USERNAME.github.io/nanoclaw-radar/${digest.date}.html`,
+      url: `https://happydog-intj.github.io/nanoclaw-radar/${digest.date}.html`,
       date: new Date(digest.date),
     });
   }
