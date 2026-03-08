@@ -18,6 +18,12 @@ on:
           - en
           - zh
 
+  # Enable workflow detection (can be removed after first run)
+  push:
+    branches: [master]
+    paths:
+      - '.github/workflows/daily-digest.yml'
+
 permissions:
   contents: write
   issues: write
