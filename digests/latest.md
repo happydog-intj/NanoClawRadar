@@ -3,7 +3,7 @@
 ## 🌟 今日亮点
 
 - **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (20157⭐ total)
-- **✨ 1 new notable repositories** - op7418/Claude-to-IM-skill (520⭐)
+- **✨ 1 new notable repositories** - op7418/Claude-to-IM-skill (521⭐)
 
 ## 🤖 NanoClaw 生态
 
@@ -27,7 +27,7 @@ A Claude Code plugin that automatically captures everything Claude does during y
 
 ## 🔌 MCP 生态
 
-- **microsoft/playwright-mcp** - Playwright MCP server (28401⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (28402⭐)
 - **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (5983⭐)
 - **makenotion/notion-mcp-server** - Official Notion MCP Server (3997⭐)
 - **modelcontextprotocol/inspector** - Visual testing tool for MCP servers (8949⭐)
@@ -36,7 +36,7 @@ A Claude Code plugin that automatically captures everything Claude does during y
 ## 📈 趋势
 
 1. **Heartflabrace/Doubao-Claw** - 118⭐
-2. **op7418/Claude-to-IM-skill** - 520⭐
+2. **op7418/Claude-to-IM-skill** - 521⭐
    Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.
 3. **zubair-trabzada/ai-marketing-claude** - 209⭐
    AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports.
