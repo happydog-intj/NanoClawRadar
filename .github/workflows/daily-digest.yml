@@ -1,0 +1,108 @@
+name: Daily Digest
+
+on:
+  schedule:
+    # Run at 08:00 UTC every day
+    - cron: '0 8 * * *'
+
+  workflow_dispatch:
+    # Allow manual trigger
+    inputs:
+      language:
+        description: 'Language for digest'
+        required: false
+        default: 'both'
+        type: choice
+        options:
+          - both
+          - en
+          - zh
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build project
+        run: pnpm build
+
+      - name: Generate digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          LANGUAGE: ${{ github.event.inputs.language || 'both' }}
+        run: pnpm digest
+
+      - name: Commit and push digest
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add digests/
+          git diff-index --quiet HEAD || git commit -m "feat: add digest for $(date +%Y-%m-%d)"
+          git push
+
+      - name: Create GitHub Issue
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            // Read the latest digest
+            const today = new Date().toISOString().split('T')[0];
+            const digestPath = path.join('digests', 'latest.md');
+
+            if (!fs.existsSync(digestPath)) {
+              console.log('No digest file found');
+              return;
+            }
+
+            const content = fs.readFileSync(digestPath, 'utf8');
+
+            // Create issue
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `NanoClaw Radar - ${today}`,
+              body: content,
+              labels: ['digest', 'automated']
+            });
+
+      - name: Generate RSS feed
+        run: pnpm run generate:rss
+
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'

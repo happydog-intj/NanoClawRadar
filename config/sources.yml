@@ -1,0 +1,228 @@
+# Data sources configuration for NanoClaw Radar
+
+github:
+  # Core NanoClaw ecosystem
+  core:
+    - owner: qwibitai
+      repo: nanoclaw
+      description: "Main NanoClaw repository"
+      priority: high
+
+    - owner: anthropics
+      repo: claude-agent-sdk
+      description: "Claude Agent SDK"
+      priority: high
+
+  # Google Workspace ecosystem
+  workspace:
+    - owner: googleworkspace
+      repo: cli
+      description: "Google Workspace CLI (gws)"
+      priority: high
+
+  # Messaging platforms
+  messaging:
+    - owner: WhiskeySockets
+      repo: Baileys
+      description: "WhatsApp Web API"
+      priority: medium
+
+    - owner: grammyjs
+      repo: grammY
+      description: "Telegram Bot Framework"
+      priority: medium
+
+    - owner: discord
+      repo: discord.js
+      description: "Discord.js library"
+      priority: medium
+
+    - owner: slackapi
+      repo: bolt-js
+      description: "Slack Bolt framework"
+      priority: medium
+
+  # AI Agent frameworks
+  frameworks:
+    - owner: langchain-ai
+      repo: langchain
+      description: "LangChain framework"
+      priority: medium
+
+    - owner: Significant-Gravitas
+      repo: AutoGPT
+      description: "AutoGPT"
+      priority: medium
+
+    - owner: reworkd
+      repo: AgentGPT
+      description: "AgentGPT"
+      priority: medium
+
+  # MCP ecosystem
+  mcp:
+    - owner: modelcontextprotocol
+      repo: servers
+      description: "Official MCP servers"
+      priority: high
+
+    - owner: modelcontextprotocol
+      repo: typescript-sdk
+      description: "MCP TypeScript SDK"
+      priority: medium
+
+  # Topics to track
+  topics:
+    - ai-agents
+    - mcp-servers
+    - claude-code
+    - whatsapp-bot
+    - telegram-bot
+    - discord-bot
+    - ai-automation
+    - agent-framework
+
+  # Search queries
+  searches:
+    - query: "MCP server"
+      language: typescript
+      sort: created
+      order: desc
+
+    - query: "Claude agent"
+      language: typescript
+      sort: stars
+      order: desc
+
+    - query: "WhatsApp bot"
+      language: typescript
+      sort: updated
+      order: desc
+
+hackernews:
+  # Keywords to track
+  keywords:
+    - Claude
+    - AI agents
+    - MCP
+    - agent framework
+    - WhatsApp bot
+    - Telegram bot
+    - Google Workspace CLI
+    - gws
+
+  # Minimum score threshold
+  min_score: 50
+
+reddit:
+  # Subreddits to monitor
+  subreddits:
+    - name: ClaudeAI
+      priority: high
+
+    - name: LocalLLaMA
+      priority: high
+
+    - name: OpenAI
+      priority: medium
+
+    - name: artificial
+      priority: medium
+
+    - name: MachineLearning
+      priority: low
+
+  # Keywords in posts
+  keywords:
+    - NanoClaw
+    - Claude
+    - MCP
+    - AI agent
+    - agent framework
+
+  # Minimum upvotes threshold
+  min_upvotes: 20
+
+blogs:
+  # Official blogs to monitor
+  feeds:
+    - url: https://www.anthropic.com/news
+      name: Anthropic News
+      priority: high
+
+    - url: https://cloud.google.com/blog/topics/developers-practitioners
+      name: Google Cloud Blog
+      priority: medium
+
+    - url: https://openai.com/blog
+      name: OpenAI Blog
+      priority: medium
+
+twitter:
+  # Twitter/X accounts to monitor (if enabled)
+  accounts:
+    - handle: AnthropicAI
+      priority: high
+
+    - handle: ClaudeAI
+      priority: high
+
+    - handle: googlecloud
+      priority: medium
+
+  # Hashtags to track
+  hashtags:
+    - "#AIAgents"
+    - "#ClaudeAI"
+    - "#MCP"
+    - "#AgentFramework"
+
+# Analysis configuration
+analysis:
+  # Star growth threshold (weekly)
+  star_growth_threshold: 50
+
+  # New repo threshold (stars)
+  new_repo_min_stars: 100
+
+  # Issue activity threshold (weekly)
+  issue_activity_threshold: 10
+
+  # Sentiment analysis
+  sentiment:
+    enabled: true
+    sources:
+      - hackernews
+      - reddit
+
+# Output configuration
+output:
+  # Digest formats
+  formats:
+    - markdown
+    - json
+    - rss
+
+  # Archive by month
+  archive_by_month: true
+
+  # Create GitHub issues
+  create_issues: true
+
+  # Notification channels
+  notifications:
+    telegram:
+      enabled: false  # Set to true and provide bot token
+    discord:
+      enabled: false  # Set to true and provide webhook
+
+# Schedule
+schedule:
+  # Run time (UTC)
+  time: "08:00"
+
+  # Timezone
+  timezone: "UTC"
+
+  # Days to run (0=Sunday, 6=Saturday)
+  days: [1, 2, 3, 4, 5]  # Monday to Friday
