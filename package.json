@@ -9,7 +9,7 @@
     "dev": "tsx src/index.ts",
     "start": "node dist/index.js",
     "digest": "tsx src/index.ts",
-    "generate:rss": "tsx -e \"import { generateRSSFeed } from './src/generators/rss.js'; generateRSSFeed();\"",
+    "generate:rss": "node -e \"const { generateRSSFeed } = require('./dist/generators/rss.js'); generateRSSFeed();\"",
     "test": "vitest",
     "lint": "eslint src/**/*.ts",
     "format": "prettier --write \"src/**/*.ts\""
