@@ -4,10 +4,27 @@
         <description><![CDATA[Daily tracking of NanoClaw ecosystem and AI agent developments]]></description>
         <link>https://happydog-intj.github.io/nanoclaw-radar</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 10:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 10:32:51 GMT</lastBuildDate>
         <atom:link href="https://happydog-intj.github.io/nanoclaw-radar/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 10:28:33 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 10:32:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[NanoClaw Radar - 2026-07-29]]></title>
+            <description><![CDATA[# NanoClaw Radar - 2026-07-29
+
+## 🌟 Highlights
+
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30394⭐ total)
+- **✨ 2 new notable repositories** - makecindy/cindy (1067⭐), 0xwilliamortiz/openclaude-improved (587⭐)
+
+## 🤖 NanoClaw Ecosystem
+
+### qwibitai/nanoclaw
+...]]></description>
+            <link>https://happydog-intj.github.io/nanoclaw-radar/2026-07-29.html</link>
+            <guid isPermaLink="true">https://happydog-intj.github.io/nanoclaw-radar/2026-07-29.html</guid>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NanoClaw Radar - 2026-07-28]]></title>
             <description><![CDATA[# NanoClaw Radar - 2026-07-28
@@ -488,23 +505,6 @@ A light...]]></description>
             <link>https://happydog-intj.github.io/nanoclaw-radar/2026-06-30.html</link>
             <guid isPermaLink="true">https://happydog-intj.github.io/nanoclaw-radar/2026-06-30.html</guid>
             <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NanoClaw Radar - 2026-06-29]]></title>
-            <description><![CDATA[# NanoClaw Radar - 2026-06-29
-
-## 🌟 Highlights
-
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30030⭐ total)
-- **✨ 2 new notable repositories** - winsznx/theeleven (712⭐), benchflow-ai/awesome-evals (577⭐)
-
-## 🤖 NanoClaw Ecosystem
-
-### qwibitai/nanoclaw
-A light...]]></description>
-            <link>https://happydog-intj.github.io/nanoclaw-radar/2026-06-29.html</link>
-            <guid isPermaLink="true">https://happydog-intj.github.io/nanoclaw-radar/2026-06-29.html</guid>
-            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
