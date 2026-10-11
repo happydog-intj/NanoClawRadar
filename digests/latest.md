@@ -1,15 +1,15 @@
-# NanoClaw Radar - 2026-10-10
+# NanoClaw Radar - 2026-10-11
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30909⭐ total)
-- **✨ 4 new notable repositories** - franzenzenhofer/big-arrow-on-the-screen (545⭐), GTKottman/mortiflix-oss (511⭐), Jakeschincariol/replica-skill (1495⭐), shinshin86/mesh-avatar-studio (582⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30924⭐ total)
+- **✨ 3 new notable repositories** - franzenzenhofer/big-arrow-on-the-screen (611⭐), GTKottman/mortiflix-oss (564⭐), shinshin86/mesh-avatar-studio (604⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 30909 stars
+- ⭐ 30924 stars
 
 ## 🧠 Claude 生态
 
@@ -19,40 +19,46 @@ Claude Agent SDK
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 149994 stars
+- ⭐ 150168 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 99120 stars
+- ⭐ 99543 stars
 
 ## 🔌 MCP 生态
 
-- **microsoft/playwright-mcp** - Playwright MCP server (37991⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7175⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (935⭐)
-- **makenotion/notion-mcp-server** - Official Notion MCP Server (4662⭐)
-- **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1935⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (38016⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7174⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (937⭐)
+- **makenotion/notion-mcp-server** - Official Notion MCP Server (4663⭐)
+- **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1936⭐)
 
 ## 📈 趋势
 
-1. **franzenzenhofer/big-arrow-on-the-screen** - 545⭐
+1. **franzenzenhofer/big-arrow-on-the-screen** - 611⭐
    Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.
-2. **GTKottman/mortiflix-oss** - 511⭐
+2. **GTKottman/mortiflix-oss** - 564⭐
    A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.
-3. **mariagorskikh/open-instinct** - 285⭐
-   Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.
-4. **OrgoAI/bops** - 243⭐
+3. **aindeev/agent-chrome-relay** - 251⭐
+   Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev
+4. **OrgoAI/bops** - 251⭐
    Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot
-5. **uzairansaruzi/p3-stack** - 143⭐
-   pstack reworked for T3 Code: delegated subagents, worktree threads, PR watching, scheduled runs.
-6. **Jakeschincariol/replica-skill** - 1495⭐
-   Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
-7. **shinshin86/mesh-avatar-studio** - 582⭐
+5. **fayazara/robot-heads** - 228⭐
+   Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.
+6. **shinshin86/mesh-avatar-studio** - 604⭐
    Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor
-8. **cth9191/animate** - 376⭐
+7. **cth9191/animate** - 465⭐
    Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.
-9. **h100envy/gem-search** - 195⭐
+8. **Jakeschincariol/founder-skill** - 281⭐
+   Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.
+9. **h100envy/gem-search** - 203⭐
    Rainbow spider that X-rays memecoins: bundles, linked wallets, dev history. Scanner, Telegram bot, live Bundle Index.
+
+## 💬 社区动态
+
+### Hacker News
+
+- [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/) - 118 points
 
 ---
 
