@@ -1,70 +1,71 @@
-# NanoClaw Radar - 2026-10-14
+# NanoClaw Radar - 2026-10-15
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30943⭐ total)
-- **✨ 5 new notable repositories** - franzenzenhofer/big-arrow-on-the-screen (739⭐), deeplethe/solid-glass (582⭐), zhuyansen/new-term-radar (907⭐), YeonwooSung/my-claude-code-mods (743⭐), Jakeschincariol/founder-skill (610⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30953⭐ total)
+- **✨ 6 new notable repositories** - deeplethe/solid-glass (943⭐), marclou/mailcheap (940⭐), franzenzenhofer/big-arrow-on-the-screen (748⭐), morluto/awesome-reverse-engineering (532⭐), zhuyansen/new-term-radar (1008⭐), YeonwooSung/my-claude-code-mods (814⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 30943 stars
+- ⭐ 30953 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1808 stars
+- ⭐ 1811 stars
 
 ### YeonwooSung/my-claude-code-mods
 Custom Claude Code Mods that I need
-- ⭐ 743 stars
+- ⭐ 814 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 150760 stars
+- ⭐ 150994 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 100629 stars
+- ⭐ 100904 stars
 
 ## 🔌 MCP 生态
 
-- **microsoft/playwright-mcp** - Playwright MCP server (38127⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7184⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (950⭐)
-- **makenotion/notion-mcp-server** - Official Notion MCP Server (4666⭐)
+- **sepehr071/awesome-iran-mcp** - 19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman. (101⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (38179⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7187⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (956⭐)
 - **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1948⭐)
 
 ## 📈 趋势
 
-1. **franzenzenhofer/big-arrow-on-the-screen** - 739⭐
-   Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.
-2. **deeplethe/solid-glass** - 582⭐
+1. **deeplethe/solid-glass** - 943⭐
    A design system for AI applications. Material, physical, tactile, technical.
-3. **morluto/awesome-reverse-engineering** - 472⭐
+2. **marclou/mailcheap** - 940⭐
+   The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.
+3. **franzenzenhofer/big-arrow-on-the-screen** - 748⭐
+   Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.
+4. **morluto/awesome-reverse-engineering** - 532⭐
    Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
-4. **fayazara/robot-heads** - 324⭐
-   Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.
-5. **aindeev/agent-chrome-relay** - 282⭐
-   Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev
-6. **zhuyansen/new-term-radar** - 907⭐
+5. **thesysdev/open-intelligent-ui** - 377⭐
+   An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.
+6. **sepehr071/awesome-iran-mcp** - 101⭐
+   19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.
+7. **zhuyansen/new-term-radar** - 1008⭐
    Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
-7. **YeonwooSung/my-claude-code-mods** - 743⭐
+8. **YeonwooSung/my-claude-code-mods** - 814⭐
    Custom Claude Code Mods that I need
-8. **Jakeschincariol/founder-skill** - 610⭐
-   Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.
-9. **juliobsz/skills** - 326⭐
+9. **juliobsz/skills** - 353⭐
    An agent skill that builds award-caliber websites from one line
-10. **SouravBeraAkaSpeed/xiryn** - 165⭐
-   Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.
+10. **i12bp8/decomp.wtf** - 285⭐
+   What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) - 71 points
+- [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/) - 190 points
+- [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) - 102 points
 
 ---
 
