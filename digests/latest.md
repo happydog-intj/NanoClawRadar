@@ -1,73 +1,66 @@
-# NanoClaw Radar - 2026-10-17
+# NanoClaw Radar - 2026-10-18
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30962⭐ total)
-- **✨ 5 new notable repositories** - deeplethe/solid-glass (1676⭐), marclou/mailcheap (1193⭐), feder-cr/git-ai (1099⭐), Zfinix/eleven (648⭐), zhuyansen/new-term-radar (1073⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30964⭐ total)
+- **✨ 7 new notable repositories** - deeplethe/solid-glass (2001⭐), feder-cr/git-ai (1164⭐), jwuthri-cloud/Tracely-ai (976⭐), Leonxlnx/earshot (725⭐), Zfinix/eleven (711⭐), zhuyansen/new-term-radar (1097⭐), Gathin23/tv-vibehack (815⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 30962 stars
+- ⭐ 30964 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1818 stars
-
-### assafkip/claudemy
-Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.
-- ⭐ 292 stars
+- ⭐ 1821 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 151354 stars
+- ⭐ 152208 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 101302 stars
+- ⭐ 101521 stars
 
 ## 🔌 MCP 生态
 
-- **sepehr071/awesome-iran-mcp** - 19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman. (119⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (38272⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7191⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (965⭐)
-- **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1950⭐)
+- **sepehr071/awesome-iran-mcp** - 19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman. (127⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (38316⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7194⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (966⭐)
+- **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1951⭐)
 
 ## 📈 趋势
 
-1. **deeplethe/solid-glass** - 1676⭐
+1. **deeplethe/solid-glass** - 2001⭐
    A design system for AI applications. Material, physical, tactile, technical.
-2. **marclou/mailcheap** - 1193⭐
-   Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.
-3. **feder-cr/git-ai** - 1099⭐
+2. **feder-cr/git-ai** - 1164⭐
    Git designed for AI agents.
-4. **Zfinix/eleven** - 648⭐
-   Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.
-5. **Leonxlnx/earshot** - 497⭐
+3. **jwuthri-cloud/Tracely-ai** - 976⭐
+   Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.
+4. **Leonxlnx/earshot** - 725⭐
    Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
-6. **sepehr071/awesome-iran-mcp** - 119⭐
+5. **Zfinix/eleven** - 711⭐
+   Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.
+6. **sepehr071/awesome-iran-mcp** - 127⭐
    19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.
-7. **zhuyansen/new-term-radar** - 1073⭐
+7. **zhuyansen/new-term-radar** - 1097⭐
    Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
-8. **i12bp8/decomp.wtf** - 477⭐
+8. **Gathin23/tv-vibehack** - 815⭐
+   Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.
+9. **i12bp8/decomp.wtf** - 494⭐
    What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.
-9. **juliobsz/skills** - 377⭐
+10. **juliobsz/skills** - 388⭐
    An agent skill that builds award-caliber websites from one line
-10. **assafkip/claudemy** - 292⭐
-   Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) - 897 points
-- [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/) - 369 points
-- [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits) - 149 points
-- [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) - 53 points
+- [Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5](https://tkgally.github.io/500-clocks/) - 53 points
 
 ---
 
