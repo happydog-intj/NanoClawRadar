@@ -1,65 +1,66 @@
-# NanoClaw Radar - 2026-10-19
+# NanoClaw Radar - 2026-10-20
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30968⭐ total)
-- **✨ 9 new notable repositories** - feder-cr/git-ai (2406⭐), deeplethe/solid-glass (2271⭐), Leonxlnx/earshot (1283⭐), Zfinix/eleven (782⭐), i12bp8/decomp.wtf (505⭐), Gathin23/cleanyourtv (3885⭐), zhuyansen/new-term-radar (1129⭐), alchaincyf/huashu-motion (844⭐), juliobsz/skills (525⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30980⭐ total)
+- **✨ 8 new notable repositories** - feder-cr/git-ai (2547⭐), Leonxlnx/earshot (1791⭐), Zfinix/eleven (806⭐), kitlangton/scrawl (535⭐), i12bp8/decomp.wtf (515⭐), Gathin23/cleanyourtv (9242⭐), alchaincyf/huashu-motion (1094⭐), simbasjungles/free-my-tv (966⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 30968 stars
+- ⭐ 30980 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1822 stars
+- ⭐ 1824 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 152438 stars
+- ⭐ 152880 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 101751 stars
+- ⭐ 101899 stars
 
 ## 🔌 MCP 生态
 
-- **microsoft/playwright-mcp** - Playwright MCP server (38367⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7196⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (972⭐)
-- **apify/apify-mcp-server** - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. (12007⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (38407⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7202⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (971⭐)
+- **apify/apify-mcp-server** - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. (12174⭐)
 - **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1950⭐)
 
 ## 📈 趋势
 
-1. **feder-cr/git-ai** - 2406⭐
+1. **feder-cr/git-ai** - 2547⭐
    Git designed for AI agents.
-2. **deeplethe/solid-glass** - 2271⭐
-   A design system for AI applications. Material, physical, tactile, technical.
-3. **Leonxlnx/earshot** - 1283⭐
+2. **Leonxlnx/earshot** - 1791⭐
    Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
-4. **Zfinix/eleven** - 782⭐
+3. **Zfinix/eleven** - 806⭐
    Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.
-5. **i12bp8/decomp.wtf** - 505⭐
+4. **kitlangton/scrawl** - 535⭐
+   Show an agent a problem: mark up, record, send
+5. **i12bp8/decomp.wtf** - 515⭐
    What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.
-6. **Gathin23/cleanyourtv** - 3885⭐
+6. **Gathin23/cleanyourtv** - 9242⭐
    Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-7. **zhuyansen/new-term-radar** - 1129⭐
-   Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
-8. **alchaincyf/huashu-motion** - 844⭐
+7. **alchaincyf/huashu-motion** - 1094⭐
    让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
-9. **juliobsz/skills** - 525⭐
-   An agent skill that builds award-caliber websites from one line
+8. **simbasjungles/free-my-tv** - 966⭐
+   A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
+9. **Gen-Verse/DiscoveryRSI** - 107⭐
+   DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp) - 135 points
-- [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/) - 105 points
+- [Maxwell: A new kind of model that sits between code and hardware](https://heymaxwell.ai/) - 103 points
+- [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/) - 78 points
+- [Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces](https://news.ycombinator.com/item?id=50154029) - 58 points
 
 ---
 
