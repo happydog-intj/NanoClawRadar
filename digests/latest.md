@@ -1,70 +1,72 @@
-# NanoClaw Radar - 2026-10-22
+# NanoClaw Radar - 2026-10-23
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30982⭐ total)
-- **✨ 5 new notable repositories** - Leonxlnx/earshot (2089⭐), feder-cr/git-ai (946⭐), Gathin23/cleanyourtv (22227⭐), simbasjungles/free-my-tv (3067⭐), alchaincyf/huashu-motion (1373⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (30999⭐ total)
+- **✨ 3 new notable repositories** - Gathin23/cleanyourtv (26396⭐), simbasjungles/free-my-tv (3707⭐), alchaincyf/huashu-motion (1503⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 30982 stars
+- ⭐ 30999 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1828 stars
+- ⭐ 1830 stars
+
+### Zafer-Liu/claude-super-sidebar
+A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.
+- ⭐ 155 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 152853 stars
+- ⭐ 152974 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 102253 stars
+- ⭐ 102440 stars
 
 ## 🔌 MCP 生态
 
-- **kanaworksai-hue/audio-studio-mcp** - Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key. (438⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (38503⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7209⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (977⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (941⭐)
+- **kanaworksai-hue/audio-studio-mcp** - Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key. (453⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (38540⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7213⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (987⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (944⭐)
 
 ## 📈 趋势
 
-1. **Leonxlnx/earshot** - 2089⭐
-   Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
-2. **feder-cr/git-ai** - 946⭐
-   Git designed for AI agents.
-3. **MemTensor/MemT-1.0** - 318⭐
+1. **MemTensor/MemT-1.0** - 366⭐
    Official repository for MemT-1.0
-4. **sit-in/awesome-grokbot-playbooks** - 255⭐
+2. **sit-in/awesome-grokbot-playbooks** - 360⭐
    中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks
-5. **alextnetto/res** - 178⭐
-   Agent skill to reverse engineer a SaaS product through the browser into a knowledge base for rebuilding it: screens, rules, data model, design tokens and production barriers, without touching production data.
-6. **Gathin23/cleanyourtv** - 22227⭐
+3. **reacher-z/Awesome-REA** - 238⭐
+   Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.
+4. **Zafer-Liu/claude-super-sidebar** - 155⭐
+   A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.
+5. **justxor/deepseek-local-guide-ru** - 135⭐
+   🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки
+6. **Gathin23/cleanyourtv** - 26396⭐
    Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-7. **simbasjungles/free-my-tv** - 3067⭐
+7. **simbasjungles/free-my-tv** - 3707⭐
    A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
-8. **alchaincyf/huashu-motion** - 1373⭐
+8. **alchaincyf/huashu-motion** - 1503⭐
    让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
-9. **kanaworksai-hue/audio-studio-mcp** - 438⭐
+9. **kanaworksai-hue/audio-studio-mcp** - 453⭐
    Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.
-10. **Gen-Verse/DiscoveryRSI** - 126⭐
-   DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses
+10. **mihirgupta0900/tv-home** - 417⭐
+   Debloat a slow, ad-filled Android TV over Wi-Fi and give it a fast Apple TV-style home screen. One prompt for Claude Code, or do it by hand.
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [Claude Duet](https://claude.com/product/claude-duet) - 453 points
-- [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data/) - 149 points
-- [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) - 92 points
-- [Claude Duet](https://claude.com/resources/articles/claude-duet) - 84 points
-- [Claude Now Works with Google Docs, Sheets, and Slides](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides) - 56 points
+- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) - 428 points
+- [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet) - 88 points
+- [Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey) - 81 points
 
 ---
 
