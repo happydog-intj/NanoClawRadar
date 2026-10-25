@@ -1,21 +1,21 @@
-# NanoClaw Radar - 2026-10-24
+# NanoClaw Radar - 2026-10-25
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31006⭐ total)
-- **✨ 3 new notable repositories** - Gathin23/cleanyourtv (29731⭐), simbasjungles/free-my-tv (4095⭐), alchaincyf/huashu-motion (1570⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31010⭐ total)
+- **✨ 2 new notable repositories** - simbasjungles/free-my-tv (4423⭐), alchaincyf/huashu-motion (1629⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31006 stars
+- ⭐ 31010 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1831 stars
+- ⭐ 1833 stars
 
 ### Zafer-Liu/claude-super-sidebar
 A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.
@@ -23,48 +23,42 @@ A visual sidebar for Claude Code and Codex: agent trees, live status, and conver
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 153232 stars
+- ⭐ 153341 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 102690 stars
+- ⭐ 102966 stars
 
 ## 🔌 MCP 生态
 
-- **kanaworksai-hue/audio-studio-mcp** - Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key. (471⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (38577⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7216⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (994⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (946⭐)
+- **kanaworksai-hue/audio-studio-mcp** - Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key. (488⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (38606⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7221⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (996⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (950⭐)
 
 ## 📈 趋势
 
-1. **MemTensor/MemT-1.0** - 383⭐
+1. **MemTensor/MemT-1.0** - 395⭐
    Official repository for MemT-1.0
-2. **sit-in/awesome-grokbot-playbooks** - 367⭐
-   中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks
-3. **Zafer-Liu/claude-super-sidebar** - 155⭐
-   A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.
-4. **Monopoly0024/simple-reviewer-v1** - 137⭐
-   Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence. | 简单的审阅者：协助 AI 编程与 Vibe Coding，解释代码、可视化流程，以证据复核目标。
-5. **tshi-dev/UrTV** - 137⭐
+2. **Charonyuu/whatsmyagentdoing** - 205⭐
+   See what every Claude Code and Codex agent on your machine is doing — live, in a little office.
+3. **tshi-dev/UrTV** - 167⭐
    Arabic home screen and Saudi screensaver for Android TV / Google TV, plus a safe speed-up. Your AI agent sets it all up. واجهة عربية وشاشة توقف سعودية لتلفزيونات أندرويد، يركّبها لك مساعد الذكاء الاصطناعي.
-6. **Gathin23/cleanyourtv** - 29731⭐
-   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-7. **simbasjungles/free-my-tv** - 4095⭐
+4. **Zafer-Liu/claude-super-sidebar** - 155⭐
+   A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.
+5. **Monopoly0024/simple-reviewer-v1** - 131⭐
+   Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence. | 简单的审阅者：协助 AI 编程与 Vibe Coding，解释代码、可视化流程，以证据复核目标。
+6. **simbasjungles/free-my-tv** - 4423⭐
    A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
-8. **alchaincyf/huashu-motion** - 1570⭐
+7. **alchaincyf/huashu-motion** - 1629⭐
    让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
-9. **kanaworksai-hue/audio-studio-mcp** - 471⭐
+8. **kanaworksai-hue/audio-studio-mcp** - 488⭐
    Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.
-10. **mihirgupta0900/tv-home** - 438⭐
+9. **mihirgupta0900/tv-home** - 459⭐
    Debloat a slow, ad-filled Android TV over Wi-Fi and give it a fast Apple TV-style home screen. One prompt for Claude Code, or do it by hand.
-
-## 💬 社区动态
-
-### Hacker News
-
-- [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/) - 95 points
+10. **morganlinton/BeautifulRust** - 400⭐
+   A Claude Code plugin that teaches Claude to write idiomatic, robust Rust
 
 ---
 
