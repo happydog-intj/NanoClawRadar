@@ -1,21 +1,21 @@
-# NanoClaw Radar - 2026-10-25
+# NanoClaw Radar - 2026-10-26
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31010⭐ total)
-- **✨ 2 new notable repositories** - simbasjungles/free-my-tv (4423⭐), alchaincyf/huashu-motion (1629⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31020⭐ total)
+- **✨ 3 new notable repositories** - simbasjungles/free-my-tv (4762⭐), morganlinton/BeautifulRust (1099⭐), DenisSergeevitch/ex-ussr-kinship-research (690⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31010 stars
+- ⭐ 31020 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1833 stars
+- ⭐ 1834 stars
 
 ### Zafer-Liu/claude-super-sidebar
 A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.
@@ -23,42 +23,48 @@ A visual sidebar for Claude Code and Codex: agent trees, live status, and conver
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 153341 stars
+- ⭐ 153436 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 102966 stars
+- ⭐ 103295 stars
 
 ## 🔌 MCP 生态
 
-- **kanaworksai-hue/audio-studio-mcp** - Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key. (488⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (38606⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7221⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (996⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (950⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (38653⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7225⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1005⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (962⭐)
+- **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1954⭐)
 
 ## 📈 趋势
 
-1. **MemTensor/MemT-1.0** - 395⭐
+1. **MemTensor/MemT-1.0** - 412⭐
    Official repository for MemT-1.0
-2. **Charonyuu/whatsmyagentdoing** - 205⭐
+2. **Charonyuu/whatsmyagentdoing** - 247⭐
    See what every Claude Code and Codex agent on your machine is doing — live, in a little office.
-3. **tshi-dev/UrTV** - 167⭐
+3. **tshi-dev/UrTV** - 186⭐
    Arabic home screen and Saudi screensaver for Android TV / Google TV, plus a safe speed-up. Your AI agent sets it all up. واجهة عربية وشاشة توقف سعودية لتلفزيونات أندرويد، يركّبها لك مساعد الذكاء الاصطناعي.
-4. **Zafer-Liu/claude-super-sidebar** - 155⭐
+4. **Cattmonkey/ChaosIntelligence** - 181⭐
+   把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.
+5. **Zafer-Liu/claude-super-sidebar** - 155⭐
    A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.
-5. **Monopoly0024/simple-reviewer-v1** - 131⭐
-   Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence. | 简单的审阅者：协助 AI 编程与 Vibe Coding，解释代码、可视化流程，以证据复核目标。
-6. **simbasjungles/free-my-tv** - 4423⭐
+6. **simbasjungles/free-my-tv** - 4762⭐
    A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
-7. **alchaincyf/huashu-motion** - 1629⭐
-   让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
-8. **kanaworksai-hue/audio-studio-mcp** - 488⭐
-   Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.
-9. **mihirgupta0900/tv-home** - 459⭐
-   Debloat a slow, ad-filled Android TV over Wi-Fi and give it a fast Apple TV-style home screen. One prompt for Claude Code, or do it by hand.
-10. **morganlinton/BeautifulRust** - 400⭐
-   A Claude Code plugin that teaches Claude to write idiomatic, robust Rust
+7. **morganlinton/BeautifulRust** - 1099⭐
+   Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
+8. **DenisSergeevitch/ex-ussr-kinship-research** - 690⭐
+   Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
+9. **routerhubSI/uncensored-ai-api** - 366⭐
+   Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.
+10. **lovisdotio/motion2code** - 274⭐
+   Skills for coding agents: rebuild a motion design video as looping SVG + GSAP code, checked frame by frame against the source
+
+## 💬 社区动态
+
+### Hacker News
+
+- [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot) - 196 points
 
 ---
 
