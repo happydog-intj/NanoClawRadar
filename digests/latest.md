@@ -1,70 +1,65 @@
-# NanoClaw Radar - 2026-10-27
+# NanoClaw Radar - 2026-10-28
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31033⭐ total)
-- **✨ 3 new notable repositories** - morganlinton/BeautifulRust (1273⭐), DenisSergeevitch/ex-ussr-kinship-research (966⭐), ZiChuanLan/agent-purge (559⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31042⭐ total)
+- **✨ 3 new notable repositories** - morganlinton/BeautifulRust (1352⭐), DenisSergeevitch/ex-ussr-kinship-research (1133⭐), ZiChuanLan/agent-purge (761⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31033 stars
+- ⭐ 31042 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1836 stars
-
-### Zafer-Liu/claude-super-sidebar
-A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.
-- ⭐ 155 stars
+- ⭐ 1840 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 153543 stars
+- ⭐ 153691 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 103582 stars
+- ⭐ 103902 stars
 
 ## 🔌 MCP 生态
 
-- **microsoft/playwright-mcp** - Playwright MCP server (38700⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7226⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1012⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (967⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (38752⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7237⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1021⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (982⭐)
 - **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1956⭐)
 
 ## 📈 趋势
 
-1. **Charonyuu/whatsmyagentdoing** - 258⭐
-   See what every Claude Code and Codex agent on your machine is doing — live, in a little office.
-2. **Cattmonkey/ChaosIntelligence** - 200⭐
-   把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.
-3. **daveebbelaar/bama** - 193⭐
+1. **daveebbelaar/bama** - 475⭐
    BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.
-4. **Zafer-Liu/claude-super-sidebar** - 155⭐
-   A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.
-5. **Monopoly0024/simple-reviewer-v1** - 136⭐
-   Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence. | 简单的审阅者：协助 AI 编程与 Vibe Coding，解释代码、可视化流程，以证据复核目标。
-6. **morganlinton/BeautifulRust** - 1273⭐
+2. **ChannelCooperStart/capri-ai** - 379⭐
+   🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.
+3. **Charonyuu/whatsmyagentdoing** - 274⭐
+   See what every Claude Code and Codex agent on your machine is doing — live, in a little office.
+4. **0xS4N4TG/kinetograph** - 272⭐
+   A blazingly fast programmatic video engine, made for agents.
+5. **Cattmonkey/ChaosIntelligence** - 203⭐
+   把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.
+6. **morganlinton/BeautifulRust** - 1352⭐
    Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
-7. **DenisSergeevitch/ex-ussr-kinship-research** - 966⭐
+7. **DenisSergeevitch/ex-ussr-kinship-research** - 1133⭐
    Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
-8. **ZiChuanLan/agent-purge** - 559⭐
+8. **ZiChuanLan/agent-purge** - 761⭐
    One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.
-9. **huaxialucaicaizi/ai-startup-skills** - 369⭐
+9. **huaxialucaicaizi/ai-startup-skills** - 442⭐
    创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。
-10. **routerhubSI/uncensored-ai-api** - 368⭐
-   Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) - 152 points
+- [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/) - 543 points
+- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) - 276 points
 
 ---
 
