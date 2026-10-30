@@ -1,65 +1,66 @@
-# NanoClaw Radar - 2026-10-29
+# NanoClaw Radar - 2026-10-30
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31051⭐ total)
-- **✨ 5 new notable repositories** - daveebbelaar/bama (714⭐), morganlinton/BeautifulRust (1392⭐), DenisSergeevitch/ex-ussr-kinship-research (1230⭐), ZiChuanLan/agent-purge (867⭐), huaxialucaicaizi/ai-startup-skills (521⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31057⭐ total)
+- **✨ 5 new notable repositories** - daveebbelaar/bama (868⭐), morganlinton/BeautifulRust (1449⭐), DenisSergeevitch/ex-ussr-kinship-research (1293⭐), qybaihe/bla (1228⭐), ZiChuanLan/agent-purge (908⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31051 stars
+- ⭐ 31057 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1846 stars
+- ⭐ 1848 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 153830 stars
+- ⭐ 153927 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 104333 stars
+- ⭐ 105568 stars
 
 ## 🔌 MCP 生态
 
-- **microsoft/playwright-mcp** - Playwright MCP server (38803⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7248⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1025⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (995⭐)
-- **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1959⭐)
+- **yjid/kensaku** - Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access. (263⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (38854⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7256⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1027⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1001⭐)
 
 ## 📈 趋势
 
-1. **daveebbelaar/bama** - 714⭐
+1. **daveebbelaar/bama** - 868⭐
    BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.
-2. **0xS4N4TG/kinetograph** - 326⭐
+2. **0xS4N4TG/kinetograph** - 352⭐
    A blazingly fast programmatic video engine, made for agents.
-3. **Charonyuu/whatsmyagentdoing** - 284⭐
+3. **Charonyuu/whatsmyagentdoing** - 300⭐
    See what every Claude Code and Codex agent on your machine is doing — live, in a little office.
-4. **davemessew/AgentFlux** - 230⭐
+4. **yjid/kensaku** - 263⭐
+   Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.
+5. **davemessew/AgentFlux** - 235⭐
    Agentic AI platform for visual workflows and autonomous agents. Run it with Docker on your own computer or server.
-5. **Cattmonkey/ChaosIntelligence** - 204⭐
-   把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.
-6. **morganlinton/BeautifulRust** - 1392⭐
+6. **morganlinton/BeautifulRust** - 1449⭐
    Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
-7. **DenisSergeevitch/ex-ussr-kinship-research** - 1230⭐
+7. **DenisSergeevitch/ex-ussr-kinship-research** - 1293⭐
    Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
-8. **ZiChuanLan/agent-purge** - 867⭐
+8. **qybaihe/bla** - 1228⭐
+   🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.
+9. **ZiChuanLan/agent-purge** - 908⭐
    One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.
-9. **huaxialucaicaizi/ai-startup-skills** - 521⭐
-   创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) - 502 points
-- [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax) - 248 points
+- [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116) - 75 points
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) - 66 points
+- [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf) - 50 points
 
 ---
 
