@@ -1,66 +1,58 @@
-# NanoClaw Radar - 2026-10-30
+# NanoClaw Radar - 2026-10-31
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31057⭐ total)
-- **✨ 5 new notable repositories** - daveebbelaar/bama (868⭐), morganlinton/BeautifulRust (1449⭐), DenisSergeevitch/ex-ussr-kinship-research (1293⭐), qybaihe/bla (1228⭐), ZiChuanLan/agent-purge (908⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31062⭐ total)
+- **✨ 5 new notable repositories** - daveebbelaar/bama (1019⭐), qybaihe/bla (1632⭐), DenisSergeevitch/ex-ussr-kinship-research (1383⭐), ZiChuanLan/agent-purge (932⭐), haydenschmitty/floorplan (527⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31057 stars
+- ⭐ 31062 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1848 stars
+- ⭐ 1851 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 153927 stars
+- ⭐ 154032 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 105568 stars
+- ⭐ 107162 stars
 
 ## 🔌 MCP 生态
 
-- **yjid/kensaku** - Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access. (263⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (38854⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7256⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1027⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1001⭐)
+- **yjid/kensaku** - Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access. (338⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (38890⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7262⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1031⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1007⭐)
 
 ## 📈 趋势
 
-1. **daveebbelaar/bama** - 868⭐
+1. **daveebbelaar/bama** - 1019⭐
    BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.
-2. **0xS4N4TG/kinetograph** - 352⭐
-   A blazingly fast programmatic video engine, made for agents.
-3. **Charonyuu/whatsmyagentdoing** - 300⭐
-   See what every Claude Code and Codex agent on your machine is doing — live, in a little office.
-4. **yjid/kensaku** - 263⭐
+2. **yjid/kensaku** - 338⭐
    Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.
-5. **davemessew/AgentFlux** - 235⭐
-   Agentic AI platform for visual workflows and autonomous agents. Run it with Docker on your own computer or server.
-6. **morganlinton/BeautifulRust** - 1449⭐
-   Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
-7. **DenisSergeevitch/ex-ussr-kinship-research** - 1293⭐
-   Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
-8. **qybaihe/bla** - 1228⭐
+3. **N1nEmAn/sapper-v2** - 298⭐
+   Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.
+4. **jmanico/grim-prompter** - 287⭐
+   Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.
+5. **boardshogunfluctuate/Capri-AI** - 286⭐
+   ⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.
+6. **qybaihe/bla** - 1632⭐
    🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.
-9. **ZiChuanLan/agent-purge** - 908⭐
+7. **DenisSergeevitch/ex-ussr-kinship-research** - 1383⭐
+   Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
+8. **ZiChuanLan/agent-purge** - 932⭐
    One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.
-
-## 💬 社区动态
-
-### Hacker News
-
-- [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116) - 75 points
-- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) - 66 points
-- [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf) - 50 points
+9. **haydenschmitty/floorplan** - 527⭐
+   See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
 
 ---
 
