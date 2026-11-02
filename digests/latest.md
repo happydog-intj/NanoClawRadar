@@ -1,66 +1,58 @@
-# NanoClaw Radar - 2026-11-01
+# NanoClaw Radar - 2026-11-02
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31068⭐ total)
-- **✨ 6 new notable repositories** - boardshogunfluctuate/Capri-AI (593⭐), qybaihe/bla (1786⭐), DenisSergeevitch/ex-ussr-kinship-research (1428⭐), haydenschmitty/floorplan (1245⭐), ZiChuanLan/agent-purge (947⭐), NiazMorshed2007/reanimate (625⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31073⭐ total)
+- **✨ 5 new notable repositories** - N1nEmAn/sapper-v2 (594⭐), haydenschmitty/floorplan (2153⭐), caru-ini/stack-diagram (1028⭐), NiazMorshed2007/reanimate (894⭐), alchaincyf/huashu-bird-sticker (565⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31068 stars
+- ⭐ 31073 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1856 stars
+- ⭐ 1858 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 154136 stars
+- ⭐ 154270 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 108654 stars
+- ⭐ 110471 stars
 
 ## 🔌 MCP 生态
 
-- **microsoft/playwright-mcp** - Playwright MCP server (38936⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7264⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1034⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1010⭐)
-- **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1963⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (38998⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7272⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1038⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1020⭐)
+- **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1967⭐)
 
 ## 📈 趋势
 
-1. **boardshogunfluctuate/Capri-AI** - 593⭐
-   ⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.
-2. **N1nEmAn/sapper-v2** - 413⭐
+1. **N1nEmAn/sapper-v2** - 594⭐
    Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.
-3. **emanuele-em/kanzo** - 389⭐
-   Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.
-4. **wanghao-SunSky/cs329z-chinese** - 339⭐
+2. **wanghao-SunSky/cs329z-chinese** - 443⭐
    斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.
-5. **jmanico/grim-prompter** - 328⭐
+3. **jmanico/grim-prompter** - 347⭐
    Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.
-6. **qybaihe/bla** - 1786⭐
-   🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.
-7. **DenisSergeevitch/ex-ussr-kinship-research** - 1428⭐
-   Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
-8. **haydenschmitty/floorplan** - 1245⭐
+4. **davemessew/AgentFlux** - 243⭐
+   Agentic AI platform for visual workflows and autonomous agents. Run it with Docker on your own computer or server.
+5. **rtora/munorai** - 241⭐
+   Supercharge the AI you already use. Greener. Better. Faster. Cheaper.
+6. **haydenschmitty/floorplan** - 2153⭐
    See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
-9. **ZiChuanLan/agent-purge** - 947⭐
-   One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.
-10. **NiazMorshed2007/reanimate** - 625⭐
+7. **caru-ini/stack-diagram** - 1028⭐
+   Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
+8. **NiazMorshed2007/reanimate** - 894⭐
    A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.
-
-## 💬 社区动态
-
-### Hacker News
-
-- [Anthropic takes steps to block Claude from reverse-engineering video games](https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering) - 161 points
+9. **alchaincyf/huashu-bird-sticker** - 565⭐
+   花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data
 
 ---
 
