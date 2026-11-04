@@ -1,65 +1,64 @@
-# NanoClaw Radar - 2026-11-03
+# NanoClaw Radar - 2026-11-04
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31076⭐ total)
-- **✨ 5 new notable repositories** - N1nEmAn/sapper-v2 (657⭐), haydenschmitty/floorplan (2434⭐), caru-ini/stack-diagram (1439⭐), NiazMorshed2007/reanimate (1040⭐), alchaincyf/huashu-bird-sticker (612⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31081⭐ total)
+- **✨ 5 new notable repositories** - KKKKhazix/agent-autoloop (2251⭐), N1nEmAn/sapper-v2 (726⭐), caru-ini/stack-diagram (1724⭐), NiazMorshed2007/reanimate (1146⭐), alchaincyf/huashu-bird-sticker (646⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31076 stars
+- ⭐ 31081 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1859 stars
+- ⭐ 1860 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 154396 stars
+- ⭐ 154513 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 111483 stars
+- ⭐ 112560 stars
 
 ## 🔌 MCP 生态
 
-- **microsoft/playwright-mcp** - Playwright MCP server (39127⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7284⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1039⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1025⭐)
-- **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1971⭐)
+- **muaaz9329/cheap-ag** - 50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex. (270⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (39173⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7286⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1046⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1027⭐)
 
 ## 📈 趋势
 
-1. **N1nEmAn/sapper-v2** - 657⭐
+1. **KKKKhazix/agent-autoloop** - 2251⭐
+   让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+2. **N1nEmAn/sapper-v2** - 726⭐
    Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.
-2. **wanghao-SunSky/cs329z-chinese** - 477⭐
+3. **wanghao-SunSky/cs329z-chinese** - 492⭐
    斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.
-3. **jmanico/grim-prompter** - 351⭐
+4. **jmanico/grim-prompter** - 360⭐
    Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.
-4. **Balanov/skein** - 259⭐
-   Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.
-5. **davemessew/AgentFlux** - 250⭐
-   Agentic AI platform for visual workflows and autonomous agents. Run it with Docker on your own computer or server.
-6. **haydenschmitty/floorplan** - 2434⭐
-   See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
-7. **caru-ini/stack-diagram** - 1439⭐
+5. **muaaz9329/cheap-ag** - 270⭐
+   50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.
+6. **caru-ini/stack-diagram** - 1724⭐
    Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
-8. **NiazMorshed2007/reanimate** - 1040⭐
+7. **NiazMorshed2007/reanimate** - 1146⭐
    A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.
-9. **alchaincyf/huashu-bird-sticker** - 612⭐
+8. **alchaincyf/huashu-bird-sticker** - 646⭐
    花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) - 783 points
-- [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/) - 158 points
+- [Gitbook Breached](https://news.ycombinator.com/item?id=50354336) - 162 points
+- [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) - 103 points
+- [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) - 99 points
 
 ---
 
