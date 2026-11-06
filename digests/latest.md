@@ -1,65 +1,66 @@
-# NanoClaw Radar - 2026-11-05
+# NanoClaw Radar - 2026-11-06
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31086⭐ total)
-- **✨ 5 new notable repositories** - KKKKhazix/agent-autoloop (3144⭐), N1nEmAn/sapper-v2 (1253⭐), JuneYaooo/rea-video (1861⭐), caru-ini/stack-diagram (1843⭐), NiazMorshed2007/reanimate (1225⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31085⭐ total)
+- **✨ 5 new notable repositories** - KKKKhazix/agent-autoloop (3580⭐), N1nEmAn/sapper-v2 (1446⭐), caru-ini/stack-diagram (1920⭐), alchaincyf/huashu-bird-sticker (695⭐), zhanghao123vip/ai-manju-skills (600⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31086 stars
+- ⭐ 31085 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1861 stars
+- ⭐ 1864 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 154640 stars
+- ⭐ 154768 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 113369 stars
+- ⭐ 113837 stars
 
 ## 🔌 MCP 生态
 
-- **microsoft/playwright-mcp** - Playwright MCP server (39216⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7297⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1050⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1031⭐)
-- **MicrosoftDocs/mcp** - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. (1974⭐)
+- **JosssphZhou/poki** - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware. (361⭐)
+- **Glen-Web-App/best-agent-memory-mcp** - Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars. (164⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (39259⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7299⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1057⭐)
 
 ## 📈 趋势
 
-1. **KKKKhazix/agent-autoloop** - 3144⭐
+1. **KKKKhazix/agent-autoloop** - 3580⭐
    让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
-2. **N1nEmAn/sapper-v2** - 1253⭐
+2. **N1nEmAn/sapper-v2** - 1446⭐
    Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.
-3. **Balanov/skein** - 264⭐
+3. **JosssphZhou/poki** - 361⭐
+   Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.
+4. **Balanov/skein** - 266⭐
    Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.
-4. **duyunzhoudyz/dyz-med-paper-skills** - 205⭐
+5. **duyunzhoudyz/dyz-med-paper-skills** - 241⭐
    医学论文写作与科研助手：面向中国医生和医学研究生的 32 个 Agent Skills，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊投稿与审稿修回。Medical writing & research skills.
-5. **yc-software/minecraft-agent-harness** - 145⭐
-   Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.
-6. **JuneYaooo/rea-video** - 1861⭐
-   Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。
-7. **caru-ini/stack-diagram** - 1843⭐
+6. **Glen-Web-App/best-agent-memory-mcp** - 164⭐
+   Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.
+7. **caru-ini/stack-diagram** - 1920⭐
    Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
-8. **NiazMorshed2007/reanimate** - 1225⭐
-   A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.
-9. **aliothman123/zadtop-api** - 227⭐
+8. **alchaincyf/huashu-bird-sticker** - 695⭐
+   花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data
+9. **zhanghao123vip/ai-manju-skills** - 600⭐
+   21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek
+10. **aliothman123/zadtop-api** - 228⭐
    Free Fire redeem, PUBG UC redeem, Yalla Ludo, Jawaker, iTunes checker, Apple checker, and Razer Gold redeem and PIN checker. Telegram bot and HTTP API.
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [MCP Explained](https://mcp-explained.com/) - 95 points
-- [Launch HN: Kino AI (YC S23) – AI media manager and video editor](https://news.ycombinator.com/item?id=50368804) - 93 points
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) - 1397 points
 
 ---
 
