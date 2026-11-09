@@ -1,15 +1,15 @@
-# NanoClaw Radar - 2026-11-08
+# NanoClaw Radar - 2026-11-09
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31095⭐ total)
-- **✨ 5 new notable repositories** - KKKKhazix/agent-autoloop (4062⭐), voyager-so/vork (1037⭐), JosssphZhou/poki (572⭐), caru-ini/stack-diagram (2108⭐), artemnovitckii/claude-animation-skills (507⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31097⭐ total)
+- **✨ 4 new notable repositories** - KKKKhazix/agent-autoloop (4266⭐), voyager-so/vork (1266⭐), JosssphZhou/poki (734⭐), kubai087/kubai-icons (543⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31095 stars
+- ⭐ 31097 stars
 
 ## 🧠 Claude 生态
 
@@ -17,55 +17,51 @@ A lightweight alternative to OpenClaw that runs in containers for security. Conn
 Claude Agent SDK
 - ⭐ 1872 stars
 
-### artemnovitckii/claude-animation-skills
-Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.
-- ⭐ 507 stars
-
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 154958 stars
+- ⭐ 155065 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 114716 stars
+- ⭐ 115300 stars
 
 ## 🔌 MCP 生态
 
-- **JosssphZhou/poki** - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware. (572⭐)
-- **shanselman/sandbox-mcp** - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox (306⭐)
-- **Glen-Web-App/best-agent-memory-mcp** - Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars. (261⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (39330⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7315⭐)
+- **JosssphZhou/poki** - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware. (734⭐)
+- **Glen-Web-App/best-agent-memory-mcp** - Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars. (238⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (39383⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7322⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1072⭐)
 
 ## 📈 趋势
 
-1. **KKKKhazix/agent-autoloop** - 4062⭐
+1. **KKKKhazix/agent-autoloop** - 4266⭐
    让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
-2. **voyager-so/vork** - 1037⭐
+2. **voyager-so/vork** - 1266⭐
    Headless 3D and VFX engine for agents. Research preview.
-3. **JosssphZhou/poki** - 572⭐
+3. **JosssphZhou/poki** - 734⭐
    Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.
-4. **duyunzhoudyz/dyz-med-paper-skills** - 325⭐
-   医学论文写作与科研助手：面向中国医生和医学研究生的 32 个 Agent Skills，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊投稿与审稿修回。Medical writing & research skills.
-5. **shanselman/sandbox-mcp** - 306⭐
-   Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox
-6. **Glen-Web-App/best-agent-memory-mcp** - 261⭐
+4. **kubai087/kubai-icons** - 543⭐
+   An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.
+5. **dhruvthakur11/youtube-ai-video-editing-system** - 403⭐
+   Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow
+6. **Glen-Web-App/best-agent-memory-mcp** - 238⭐
    Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.
-7. **caru-ini/stack-diagram** - 2108⭐
-   Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
-8. **artemnovitckii/claude-animation-skills** - 507⭐
-   Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.
-9. **mhfed/vn-law-check** - 478⭐
+7. **mhfed/vn-law-check** - 489⭐
    Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline
-10. **aliothman123/zadtop-api** - 116⭐
+8. **yucezerey/turkish-anti-ai-skill** - 281⭐
+   Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.
+9. **sksarvesh007/antiglaude** - 159⭐
+   Production compatibility gateway bridge & observability platform connecting Claude Code CLI with Google Antigravity & Gemini inference models via Anthropic Messages API
+10. **aliothman123/zadtop-api** - 115⭐
    Free Fire API, PUBG API, iTunes check, Razer Gold checker, Yalla Ludo API and Jawaker API. Telegram bot and HTTP API to redeem and check game codes and gift cards.
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) - 465 points
-- [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html) - 455 points
+- [Nvidia CEO Jensen Huang's letter to staff about affair](https://nvidianews.nvidia.com/news/a-message-to-our-company) - 903 points
+- [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) - 865 points
 
 ---
 
