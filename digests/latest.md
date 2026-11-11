@@ -1,67 +1,70 @@
-# NanoClaw Radar - 2026-11-10
+# NanoClaw Radar - 2026-11-11
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31098⭐ total)
-- **✨ 5 new notable repositories** - KKKKhazix/agent-autoloop (4406⭐), voyager-so/vork (1348⭐), JosssphZhou/poki (895⭐), kubai087/kubai-icons (639⭐), dabingfy-dot/solo-to-team-skills (534⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31105⭐ total)
+- **✨ 3 new notable repositories** - voyager-so/vork (1394⭐), JosssphZhou/poki (963⭐), dabingfy-dot/solo-to-team-skills (642⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31098 stars
+- ⭐ 31105 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1874 stars
+- ⭐ 1876 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 155179 stars
+- ⭐ 155282 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 115697 stars
+- ⭐ 116099 stars
 
 ## 🔌 MCP 生态
 
-- **JosssphZhou/poki** - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware. (895⭐)
+- **JosssphZhou/poki** - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware. (963⭐)
+- **shanselman/sandbox-mcp** - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox (409⭐)
 - **Glen-Web-App/best-agent-memory-mcp** - Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars. (238⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (39420⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7328⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1080⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (39499⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7337⭐)
 
 ## 📈 趋势
 
-1. **KKKKhazix/agent-autoloop** - 4406⭐
-   让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
-2. **voyager-so/vork** - 1348⭐
+1. **voyager-so/vork** - 1394⭐
    Headless 3D and VFX engine for agents. Research preview.
-3. **JosssphZhou/poki** - 895⭐
+2. **JosssphZhou/poki** - 963⭐
    Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.
-4. **kubai087/kubai-icons** - 639⭐
-   An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.
-5. **dabingfy-dot/solo-to-team-skills** - 534⭐
+3. **dabingfy-dot/solo-to-team-skills** - 642⭐
    Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。
+4. **dhruvthakur11/youtube-ai-video-editing-system** - 482⭐
+   Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow
+5. **shanselman/sandbox-mcp** - 409⭐
+   Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox
 6. **Glen-Web-App/best-agent-memory-mcp** - 238⭐
    Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.
-7. **yucezerey/turkish-anti-ai-skill** - 296⭐
-   Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.
-8. **Dodaios/ste80-humanizer** - 266⭐
+7. **Dodaios/ste80-humanizer** - 372⭐
    STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.
-9. **nengong/download-anything** - 216⭐
-   面向 AI Agent 与终端的全能下载与归档工具 / All-in-one CLI & Skill to download anything: videos, docs, cloud drives, music, papers & books
-10. **aliothman123/zadtop-api** - 115⭐
-   Free Fire API, PUBG API, iTunes check, Razer Gold checker, Yalla Ludo API and Jawaker API. Telegram bot and HTTP API to redeem and check game codes and gift cards.
+8. **yucezerey/turkish-anti-ai-skill** - 304⭐
+   Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.
+9. **alexeyw/lot-map** - 250⭐
+   A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.
+10. **nishant-Tiwari24/cracked** - 234⭐
+   Skills for getting hired. Company-wise mock interviews, OAs with hidden tests and brutal resume roasts for 470+ companies, straight from your terminal.
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) - 783 points
-- [Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far](https://artificialanalysis.ai/models/claude-fable-5-2) - 359 points
+- [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya) - 516 points
+- [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) - 414 points
+- [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data) - 266 points
+- [Life on Claude Nine](https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html) - 122 points
+- [Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac) - 95 points
 
 ---
 
