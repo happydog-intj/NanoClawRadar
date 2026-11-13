@@ -1,65 +1,65 @@
-# NanoClaw Radar - 2026-11-12
+# NanoClaw Radar - 2026-11-13
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31110⭐ total)
-- **✨ 5 new notable repositories** - voyager-so/vork (1487⭐), JosssphZhou/poki (1019⭐), agentes-chat/agentes-chat (972⭐), dabingfy-dot/solo-to-team-skills (766⭐), alexeyw/lot-map (532⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31113⭐ total)
+- **✨ 4 new notable repositories** - agentes-chat/agentes-chat (1297⭐), dabingfy-dot/solo-to-team-skills (839⭐), alexeyw/lot-map (692⭐), DIYgod/pinky (2072⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31110 stars
+- ⭐ 31113 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1877 stars
+- ⭐ 1879 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 155417 stars
+- ⭐ 155537 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 116467 stars
+- ⭐ 116764 stars
 
 ## 🔌 MCP 生态
 
-- **JosssphZhou/poki** - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware. (1019⭐)
-- **agentes-chat/agentes-chat** - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0. (972⭐)
-- **Glen-Web-App/best-agent-memory-mcp** - Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars. (238⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (39557⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7343⭐)
+- **agentes-chat/agentes-chat** - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0. (1297⭐)
+- **shanselman/sandbox-mcp** - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox (424⭐)
+- **DIYgod/pinky** - Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone. (2072⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (39597⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7350⭐)
 
 ## 📈 趋势
 
-1. **voyager-so/vork** - 1487⭐
-   Headless 3D and VFX engine for agents. Research preview.
-2. **JosssphZhou/poki** - 1019⭐
-   Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.
-3. **agentes-chat/agentes-chat** - 972⭐
+1. **agentes-chat/agentes-chat** - 1297⭐
    Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
-4. **dabingfy-dot/solo-to-team-skills** - 766⭐
+2. **dabingfy-dot/solo-to-team-skills** - 839⭐
    Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。
-5. **alexeyw/lot-map** - 532⭐
+3. **alexeyw/lot-map** - 692⭐
    A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.
-6. **Glen-Web-App/best-agent-memory-mcp** - 238⭐
-   Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.
-7. **Dodaios/ste80-humanizer** - 444⭐
+4. **shanselman/sandbox-mcp** - 424⭐
+   Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox
+5. **dhruvthakur11/youtube-ai-video-editing-system** - 386⭐
+   Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow
+6. **DIYgod/pinky** - 2072⭐
+   Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.
+7. **Dodaios/ste80-humanizer** - 478⭐
    STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.
-8. **yucezerey/turkish-anti-ai-skill** - 307⭐
-   Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.
-9. **threerocks/article2media** - 287⭐
-   把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。
+8. **op7418/guizang-game-skill** - 303⭐
+   歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) - 635 points
-- [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811) - 58 points
+- [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn) - 392 points
+- [Claude Is Down](https://status.claude.com/history) - 176 points
+- [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md) - 125 points
+- [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281) - 54 points
 
 ---
 
