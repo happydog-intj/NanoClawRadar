@@ -1,60 +1,66 @@
-# NanoClaw Radar - 2026-11-16
+# NanoClaw Radar - 2026-11-17
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31119⭐ total)
-- **✨ 7 new notable repositories** - hitkeeen/blender-ai-mcp-addon (2115⭐), agentes-chat/agentes-chat (1608⭐), alexeyw/lot-map (916⭐), berkantay/gpucanvas (507⭐), Dodaios/ste80-humanizer (733⭐), Moh4696/cinematic-skill (607⭐), BigPizzaV3/ClaudeMom (512⭐)
+- **🚀 nanoclaw trending** - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK gained 0 stars this week (31118⭐ total)
+- **✨ 4 new notable repositories** - berkantay/gpucanvas (511⭐), sybil-solutions/inference-optimisation-skill (718⭐), erkamyaman/rust-anything (648⭐), BigPizzaV3/ClaudeMom (588⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-- ⭐ 31119 stars
+- ⭐ 31118 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1887 stars
+- ⭐ 1889 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 155894 stars
+- ⭐ 156013 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 117606 stars
+- ⭐ 117912 stars
 
 ## 🔌 MCP 生态
 
-- **hitkeeen/blender-ai-mcp-addon** - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration. (2115⭐)
-- **agentes-chat/agentes-chat** - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0. (1608⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (39741⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7368⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1100⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (39789⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7375⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1101⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1095⭐)
+- **apify/apify-mcp-server** - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. (16678⭐)
 
 ## 📈 趋势
 
-1. **hitkeeen/blender-ai-mcp-addon** - 2115⭐
-   AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
-2. **agentes-chat/agentes-chat** - 1608⭐
-   Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
-3. **alexeyw/lot-map** - 916⭐
-   A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.
-4. **berkantay/gpucanvas** - 507⭐
+1. **berkantay/gpucanvas** - 511⭐
    Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.
-5. **topapothecarycanal/ai--manus2.0** - 380⭐
+2. **boringmarketer/boring-marketing-skills** - 459⭐
+   31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.
+3. **op7418/guizang-game-skill** - 397⭐
+   歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.
+4. **topapothecarycanal/ai--manus2.0** - 380⭐
    AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-6. **Dodaios/ste80-humanizer** - 733⭐
-   STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.
-7. **Moh4696/cinematic-skill** - 607⭐
-   Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.
-8. **BigPizzaV3/ClaudeMom** - 512⭐
+5. **toppatronweave/ai--manus2.0** - 378⭐
+   AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+6. **sybil-solutions/inference-optimisation-skill** - 718⭐
+   Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
+7. **erkamyaman/rust-anything** - 648⭐
+   Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
+8. **BigPizzaV3/ClaudeMom** - 588⭐
    不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）
-9. **carlos-lane-09/discord-nitro-premium-desktop** - 247⭐
+9. **kociden/sakurai-skill** - 410⭐
+   桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語）
+10. **carlos-lane-09/discord-nitro-premium-desktop** - 247⭐
    Discord Nitro Premium 2026 desktop setup with standalone offline bundle, portable mode and multilingual resources for Windows 11
-10. **cam-young-28/discord-nitro-pro-desktop** - 247⭐
-   Discord Nitro Pro 2026 standalone bundle with full plugin suite, message pipeline, voice stack and portable mode for Windows 11
+
+## 💬 社区动态
+
+### Hacker News
+
+- [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/) - 154 points
 
 ---
 
