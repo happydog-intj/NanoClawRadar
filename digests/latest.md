@@ -1,67 +1,70 @@
-# NanoClaw Radar - 2026-11-18
+# NanoClaw Radar - 2026-11-19
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31120⭐ total)
-- **✨ 5 new notable repositories** - boringmarketer/boring-marketing-skills (643⭐), berkantay/gpucanvas (522⭐), erkamyaman/rust-anything (2868⭐), sybil-solutions/inference-optimisation-skill (1046⭐), BigPizzaV3/ClaudeMom (609⭐)
+- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31124⭐ total)
+- **✨ 6 new notable repositories** - boringmarketer/boring-marketing-skills (703⭐), berkantay/gpucanvas (534⭐), erkamyaman/rust-anything (4749⭐), sybil-solutions/inference-optimisation-skill (1219⭐), BigPizzaV3/ClaudeMom (646⭐), Bodila51/gtavi-claudecode (520⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more.
-- ⭐ 31120 stars
+- ⭐ 31124 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1891 stars
+- ⭐ 1892 stars
+
+### Bodila51/gtavi-claudecode
+Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.
+- ⭐ 520 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 156137 stars
+- ⭐ 156302 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 118178 stars
+- ⭐ 118375 stars
 
 ## 🔌 MCP 生态
 
-- **microsoft/playwright-mcp** - Playwright MCP server (39850⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7380⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1102⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1099⭐)
-- **apify/apify-mcp-server** - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. (16862⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (39895⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7386⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1118⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1102⭐)
+- **apify/apify-mcp-server** - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. (17031⭐)
 
 ## 📈 趋势
 
-1. **boringmarketer/boring-marketing-skills** - 643⭐
+1. **boringmarketer/boring-marketing-skills** - 703⭐
    32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.
-2. **berkantay/gpucanvas** - 522⭐
+2. **berkantay/gpucanvas** - 534⭐
    Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.
-3. **op7418/guizang-game-skill** - 408⭐
-   歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.
-4. **topapothecarycanal/ai--manus2.0** - 380⭐
+3. **topapothecarycanal/ai--manus2.0** - 379⭐
    AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-5. **toppatronweave/ai--manus2.0** - 378⭐
+4. **toppatronweave/ai--manus2.0** - 377⭐
    AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-6. **erkamyaman/rust-anything** - 2868⭐
+5. **topconstableinlet67/ai--manus2.0** - 376⭐
+   AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
+6. **erkamyaman/rust-anything** - 4749⭐
    Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
-7. **sybil-solutions/inference-optimisation-skill** - 1046⭐
+7. **sybil-solutions/inference-optimisation-skill** - 1219⭐
    Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
-8. **BigPizzaV3/ClaudeMom** - 609⭐
+8. **BigPizzaV3/ClaudeMom** - 646⭐
    不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）
-9. **kociden/sakurai-skill** - 456⭐
-   桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語）
-10. **cam-young-28/discord-nitro-pro-desktop** - 248⭐
-   Discord Nitro Pro 2026 standalone bundle with full plugin suite, message pipeline, voice stack and portable mode for Windows 11
+9. **Bodila51/gtavi-claudecode** - 520⭐
+   Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.
+10. **carlos-lane-09/discord-nitro-premium-desktop** - 210⭐
+   Discord Nitro Premium 2026 desktop setup with standalone offline bundle, portable mode and multilingual resources for Windows 11
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/) - 137 points
-- [Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos](https://news.ycombinator.com/item?id=50536468) - 85 points
+- [Launch HN: Maritime (YC F26) – A managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188) - 57 points
 
 ---
 
