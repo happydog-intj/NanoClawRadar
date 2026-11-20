@@ -1,62 +1,58 @@
-# NanoClaw Radar - 2026-11-19
+# NanoClaw Radar - 2026-11-20
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31124⭐ total)
-- **✨ 6 new notable repositories** - boringmarketer/boring-marketing-skills (703⭐), berkantay/gpucanvas (534⭐), erkamyaman/rust-anything (4749⭐), sybil-solutions/inference-optimisation-skill (1219⭐), BigPizzaV3/ClaudeMom (646⭐), Bodila51/gtavi-claudecode (520⭐)
+- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31129⭐ total)
+- **✨ 5 new notable repositories** - bookwjitchieni1986/blender-ai-mcp-addon (1142⭐), boringmarketer/boring-marketing-skills (735⭐), erkamyaman/rust-anything (6289⭐), sybil-solutions/inference-optimisation-skill (1307⭐), mankidev/antialgorithm (552⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more.
-- ⭐ 31124 stars
+- ⭐ 31129 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1892 stars
-
-### Bodila51/gtavi-claudecode
-Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.
-- ⭐ 520 stars
+- ⭐ 1894 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 156302 stars
+- ⭐ 156426 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 118375 stars
+- ⭐ 118576 stars
 
 ## 🔌 MCP 生态
 
-- **microsoft/playwright-mcp** - Playwright MCP server (39895⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7386⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1118⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1102⭐)
-- **apify/apify-mcp-server** - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. (17031⭐)
+- **bookwjitchieni1986/blender-ai-mcp-addon** - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration. (1142⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (39933⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7391⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1126⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1108⭐)
 
 ## 📈 趋势
 
-1. **boringmarketer/boring-marketing-skills** - 703⭐
+1. **bookwjitchieni1986/blender-ai-mcp-addon** - 1142⭐
+   AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
+2. **boringmarketer/boring-marketing-skills** - 735⭐
    32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.
-2. **berkantay/gpucanvas** - 534⭐
-   Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.
 3. **topapothecarycanal/ai--manus2.0** - 379⭐
    AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
 4. **toppatronweave/ai--manus2.0** - 377⭐
    AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
 5. **topconstableinlet67/ai--manus2.0** - 376⭐
    AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-6. **erkamyaman/rust-anything** - 4749⭐
+6. **erkamyaman/rust-anything** - 6289⭐
    Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
-7. **sybil-solutions/inference-optimisation-skill** - 1219⭐
+7. **sybil-solutions/inference-optimisation-skill** - 1307⭐
    Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
-8. **BigPizzaV3/ClaudeMom** - 646⭐
-   不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）
-9. **Bodila51/gtavi-claudecode** - 520⭐
-   Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.
+8. **mankidev/antialgorithm** - 552⭐
+   Claude Code skill that steers the model away from its first, most average pick in creative work: names, ideas, posters, UI.
+9. **vaibhav-space/my-ai-coding-workflow** - 309⭐
+   Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with AI agents. Agent-agnostic.
 10. **carlos-lane-09/discord-nitro-premium-desktop** - 210⭐
    Discord Nitro Premium 2026 desktop setup with standalone offline bundle, portable mode and multilingual resources for Windows 11
 
@@ -64,7 +60,8 @@ Persistent Context Across Sessions for Every Agent –  Captures everything your
 
 ### Hacker News
 
-- [Launch HN: Maritime (YC F26) – A managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188) - 57 points
+- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) - 524 points
+- [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/) - 122 points
 
 ---
 
