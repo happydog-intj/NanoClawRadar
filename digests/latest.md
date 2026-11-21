@@ -1,15 +1,15 @@
-# NanoClaw Radar - 2026-11-20
+# NanoClaw Radar - 2026-11-21
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31129⭐ total)
-- **✨ 5 new notable repositories** - bookwjitchieni1986/blender-ai-mcp-addon (1142⭐), boringmarketer/boring-marketing-skills (735⭐), erkamyaman/rust-anything (6289⭐), sybil-solutions/inference-optimisation-skill (1307⭐), mankidev/antialgorithm (552⭐)
+- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31135⭐ total)
+- **✨ 5 new notable repositories** - bookwjitchieni1986/blender-ai-mcp-addon (1979⭐), boringmarketer/boring-marketing-skills (764⭐), erkamyaman/rust-anything (7165⭐), sybil-solutions/inference-optimisation-skill (1432⭐), mankidev/antialgorithm (594⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more.
-- ⭐ 31129 stars
+- ⭐ 31135 stars
 
 ## 🧠 Claude 生态
 
@@ -19,49 +19,42 @@ Claude Agent SDK
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 156426 stars
+- ⭐ 156536 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 118576 stars
+- ⭐ 118782 stars
 
 ## 🔌 MCP 生态
 
-- **bookwjitchieni1986/blender-ai-mcp-addon** - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration. (1142⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (39933⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7391⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1126⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1108⭐)
+- **bookwjitchieni1986/blender-ai-mcp-addon** - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration. (1979⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (39968⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7395⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1136⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1115⭐)
 
 ## 📈 趋势
 
-1. **bookwjitchieni1986/blender-ai-mcp-addon** - 1142⭐
+1. **bookwjitchieni1986/blender-ai-mcp-addon** - 1979⭐
    AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
-2. **boringmarketer/boring-marketing-skills** - 735⭐
+2. **boringmarketer/boring-marketing-skills** - 764⭐
    32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.
-3. **topapothecarycanal/ai--manus2.0** - 379⭐
+3. **topapothecarycanal/ai--manus2.0** - 377⭐
    AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-4. **toppatronweave/ai--manus2.0** - 377⭐
+4. **toppatronweave/ai--manus2.0** - 375⭐
    AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-5. **topconstableinlet67/ai--manus2.0** - 376⭐
+5. **topconstableinlet67/ai--manus2.0** - 374⭐
    AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-6. **erkamyaman/rust-anything** - 6289⭐
+6. **erkamyaman/rust-anything** - 7165⭐
    Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
-7. **sybil-solutions/inference-optimisation-skill** - 1307⭐
+7. **sybil-solutions/inference-optimisation-skill** - 1432⭐
    Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
-8. **mankidev/antialgorithm** - 552⭐
-   Claude Code skill that steers the model away from its first, most average pick in creative work: names, ideas, posters, UI.
-9. **vaibhav-space/my-ai-coding-workflow** - 309⭐
-   Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with AI agents. Agent-agnostic.
-10. **carlos-lane-09/discord-nitro-premium-desktop** - 210⭐
+8. **mankidev/antialgorithm** - 594⭐
+   Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.
+9. **diego3g/craft** - 348⭐
+   Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works with Paper, pen.dev, Figma or HTML.
+10. **carlos-lane-09/discord-nitro-premium-desktop** - 209⭐
    Discord Nitro Premium 2026 desktop setup with standalone offline bundle, portable mode and multilingual resources for Windows 11
-
-## 💬 社区动态
-
-### Hacker News
-
-- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) - 524 points
-- [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/) - 122 points
 
 ---
 
