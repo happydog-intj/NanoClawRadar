@@ -1,60 +1,70 @@
-# NanoClaw Radar - 2026-11-21
+# NanoClaw Radar - 2026-11-22
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31135⭐ total)
-- **✨ 5 new notable repositories** - bookwjitchieni1986/blender-ai-mcp-addon (1979⭐), boringmarketer/boring-marketing-skills (764⭐), erkamyaman/rust-anything (7165⭐), sybil-solutions/inference-optimisation-skill (1432⭐), mankidev/antialgorithm (594⭐)
+- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31144⭐ total)
+- **✨ 5 new notable repositories** - bookwjitchieni1986/blender-ai-mcp-addon (2743⭐), EL4CTEO/fast-anything (1232⭐), boringmarketer/boring-marketing-skills (791⭐), erkamyaman/rust-anything (7824⭐), sybil-solutions/inference-optimisation-skill (1886⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more.
-- ⭐ 31135 stars
+- ⭐ 31144 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1894 stars
+- ⭐ 1896 stars
+
+### christinesoft17/claude-desktop-app-win
+Anthropic Claude Desktop App - AI assistant application for conversational interaction, document analysis and task automation on Windows 10/11
+- ⭐ 289 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 156536 stars
+- ⭐ 156661 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 118782 stars
+- ⭐ 118983 stars
 
 ## 🔌 MCP 生态
 
-- **bookwjitchieni1986/blender-ai-mcp-addon** - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration. (1979⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (39968⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7395⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1136⭐)
-- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1115⭐)
+- **bookwjitchieni1986/blender-ai-mcp-addon** - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration. (2743⭐)
+- **w01fb0ss/PiBot** - Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi. (324⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (39999⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7401⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1150⭐)
 
 ## 📈 趋势
 
-1. **bookwjitchieni1986/blender-ai-mcp-addon** - 1979⭐
+1. **bookwjitchieni1986/blender-ai-mcp-addon** - 2743⭐
    AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
-2. **boringmarketer/boring-marketing-skills** - 764⭐
+2. **EL4CTEO/fast-anything** - 1232⭐
+   Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+3. **boringmarketer/boring-marketing-skills** - 791⭐
    32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.
-3. **topapothecarycanal/ai--manus2.0** - 377⭐
-   AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-4. **toppatronweave/ai--manus2.0** - 375⭐
-   AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-5. **topconstableinlet67/ai--manus2.0** - 374⭐
-   AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
-6. **erkamyaman/rust-anything** - 7165⭐
+4. **praseesh369/youtube-ai-video-editing-system** - 337⭐
+   Storyboard, capture, and animate: an AI editing workflow for YouTube
+5. **w01fb0ss/PiBot** - 324⭐
+   Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.
+6. **erkamyaman/rust-anything** - 7824⭐
    Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
-7. **sybil-solutions/inference-optimisation-skill** - 1432⭐
+7. **sybil-solutions/inference-optimisation-skill** - 1886⭐
    Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
-8. **mankidev/antialgorithm** - 594⭐
-   Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.
-9. **diego3g/craft** - 348⭐
-   Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works with Paper, pen.dev, Figma or HTML.
-10. **carlos-lane-09/discord-nitro-premium-desktop** - 209⭐
-   Discord Nitro Premium 2026 desktop setup with standalone offline bundle, portable mode and multilingual resources for Windows 11
+8. **danielwh2/sprite-stacking** - 429⭐
+   Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.
+9. **christinesoft17/claude-desktop-app-win** - 289⭐
+   Anthropic Claude Desktop App - AI assistant application for conversational interaction, document analysis and task automation on Windows 10/11
+10. **Hasanturner/discord-nitro-premium-win** - 285⭐
+   Discord Nitro - subscription service for custom emoji, HD video streaming and larger file uploads on Windows 10/11
+
+## 💬 社区动态
+
+### Hacker News
+
+- [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io) - 122 points
 
 ---
 
