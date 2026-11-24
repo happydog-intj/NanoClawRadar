@@ -1,54 +1,58 @@
-# NanoClaw Radar - 2026-11-23
+# NanoClaw Radar - 2026-11-24
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31148⭐ total)
-- **✨ 6 new notable repositories** - EL4CTEO/fast-anything (3035⭐), bookwjitchieni1986/blender-ai-mcp-addon (2765⭐), pierridotite/mobile-agent-testers (1382⭐), boringmarketer/boring-marketing-skills (811⭐), erkamyaman/rust-anything (8631⭐), sybil-solutions/inference-optimisation-skill (2094⭐)
+- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31151⭐ total)
+- **✨ 5 new notable repositories** - EL4CTEO/fast-anything (3553⭐), erkamyaman/safe-anything (608⭐), w01fb0ss/PiBot (553⭐), Developing-Gamer/agent-sim (512⭐), danielwh2/sprite-stacking (765⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more.
-- ⭐ 31148 stars
+- ⭐ 31151 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1902 stars
+- ⭐ 1904 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 156810 stars
+- ⭐ 156944 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 119291 stars
+- ⭐ 119514 stars
 
 ## 🔌 MCP 生态
 
-- **bookwjitchieni1986/blender-ai-mcp-addon** - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration. (2765⭐)
-- **w01fb0ss/PiBot** - Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi. (494⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (40058⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7408⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1164⭐)
+- **w01fb0ss/PiBot** - Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi. (553⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (40099⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7411⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1183⭐)
+- **TensorBlock/awesome-mcp-servers** - A comprehensive collection of Model Context Protocol (MCP) servers (1136⭐)
 
 ## 📈 趋势
 
-1. **EL4CTEO/fast-anything** - 3035⭐
+1. **EL4CTEO/fast-anything** - 3553⭐
    Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
-2. **bookwjitchieni1986/blender-ai-mcp-addon** - 2765⭐
-   AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
-3. **pierridotite/mobile-agent-testers** - 1382⭐
-   20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs
-4. **boringmarketer/boring-marketing-skills** - 811⭐
-   32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.
-5. **w01fb0ss/PiBot** - 494⭐
+2. **erkamyaman/safe-anything** - 608⭐
+   Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.
+3. **w01fb0ss/PiBot** - 553⭐
    Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.
-6. **erkamyaman/rust-anything** - 8631⭐
-   Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
-7. **sybil-solutions/inference-optimisation-skill** - 2094⭐
-   Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
+4. **Developing-Gamer/agent-sim** - 512⭐
+   iOS simulators for AI agents, on Linux. The agent layer for x86Sim.
+5. **JimLiu/open-artifact** - 470⭐
+   Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.
+6. **danielwh2/sprite-stacking** - 765⭐
+   Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.
+
+## 💬 社区动态
+
+### Hacker News
+
+- [Claude Ship](https://claude.com/resources/articles/introducing-claude-ship) - 84 points
 
 ---
 
