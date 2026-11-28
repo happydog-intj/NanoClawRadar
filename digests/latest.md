@@ -1,63 +1,59 @@
-# NanoClaw Radar - 2026-11-27
+# NanoClaw Radar - 2026-11-28
 
 ## 🌟 今日亮点
 
-- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31171⭐ total)
-- **✨ 7 new notable repositories** - EL4CTEO/fast-anything (4423⭐), nexu-io/opengame (2041⭐), erkamyaman/safe-anything (819⭐), w01fb0ss/PiBot (669⭐), Developing-Gamer/agent-sim (624⭐), qianyiai/KuroCat (1747⭐), danielwh2/sprite-stacking (1075⭐)
+- **🚀 nanoclaw trending** - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more. gained 0 stars this week (31172⭐ total)
+- **✨ 6 new notable repositories** - EL4CTEO/fast-anything (4640⭐), nexu-io/opengame (2819⭐), DeadInternetStudios/100x-engineer-skill (1560⭐), erkamyaman/safe-anything (847⭐), w01fb0ss/PiBot (704⭐), qianyiai/KuroCat (1918⭐)
 
 ## 🤖 NanoClaw 生态
 
 ### qwibitai/nanoclaw
 Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more.
-- ⭐ 31171 stars
+- ⭐ 31172 stars
 
 ## 🧠 Claude 生态
 
 ### anthropics/claude-agent-sdk
 Claude Agent SDK
-- ⭐ 1910 stars
+- ⭐ 1912 stars
 
 ### anthropics/claude-code
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- ⭐ 157305 stars
+- ⭐ 157379 stars
 
 ### thedotmack/claude-mem
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- ⭐ 120163 stars
+- ⭐ 120340 stars
 
 ## 🔌 MCP 生态
 
-- **w01fb0ss/PiBot** - Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi. (669⭐)
-- **qianyiai/KuroCat** - KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣 (1747⭐)
-- **microsoft/playwright-mcp** - Playwright MCP server (40215⭐)
-- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7423⭐)
-- **cloudflare/mcp** - MCP server for the Cloudflare API (1195⭐)
+- **w01fb0ss/PiBot** - Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi. (704⭐)
+- **qianyiai/KuroCat** - KuroCat — Free open-source 3D/2D desktop typing cat & AI companion (Bongo Cat alternative · MCP · Win/Mac/Linux/Android) 开源3D桌面打字小黑猫 (1918⭐)
+- **microsoft/playwright-mcp** - Playwright MCP server (40241⭐)
+- **BrowserMCP/mcp** - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser (7426⭐)
+- **cloudflare/mcp** - MCP server for the Cloudflare API (1200⭐)
 
 ## 📈 趋势
 
-1. **EL4CTEO/fast-anything** - 4423⭐
-   Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
-2. **nexu-io/opengame** - 2041⭐
+1. **EL4CTEO/fast-anything** - 4640⭐
+   Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.
+2. **nexu-io/opengame** - 2819⭐
    The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.
-3. **erkamyaman/safe-anything** - 819⭐
+3. **DeadInternetStudios/100x-engineer-skill** - 1560⭐
+   100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code
+4. **erkamyaman/safe-anything** - 847⭐
    Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.
-4. **w01fb0ss/PiBot** - 669⭐
+5. **w01fb0ss/PiBot** - 704⭐
    Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.
-5. **Developing-Gamer/agent-sim** - 624⭐
-   iOS simulators for AI agents, on Linux. The agent layer for x86Sim.
-6. **qianyiai/KuroCat** - 1747⭐
-   KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣
-7. **danielwh2/sprite-stacking** - 1075⭐
-   Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.
-8. **hugheskartik80/discord-nitro-classic** - 287⭐
-   Discord Nitro Classic for Windows 10/11. Unlocks custom emoji, larger file uploads and animated avatars across your servers, giving you more ways to personalize chats and share bigger files with friends.
+6. **qianyiai/KuroCat** - 1918⭐
+   KuroCat — Free open-source 3D/2D desktop typing cat & AI companion (Bongo Cat alternative · MCP · Win/Mac/Linux/Android) 开源3D桌面打字小黑猫
 
 ## 💬 社区动态
 
 ### Hacker News
 
-- [Claude sabotaging ML research tasks?](https://twitter.com/RealAstropulse/status/2126119408997466389) - 320 points
-- ["What's Claude's fursona?" and other questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/) - 112 points
+- [Claude Code sabotage: preliminary benchmarking](https://xinyadu.github.io/blog/claude-code-sabotage.html) - 396 points
+- [Show HN: Luciole Mono – terminal font designed for legibility](https://scriptor-pro.github.io/luciole-mono/) - 84 points
 
 ---
 
